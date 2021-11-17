@@ -1,3 +1,3 @@
-# SNAKE GAME
+# SNAKE GAME WITH PYTHON TURTLE GRAPHICS
 
-#### some description
+<img src="https://github.com/DavidDanso/python-snake-game/blob/master/Snake%20Game%20UI.png" width=950/>
